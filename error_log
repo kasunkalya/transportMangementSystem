@@ -1,0 +1,68 @@
+[17-May-2018 14:55:29 UTC] PHP Warning:  require_once(util/DBConnect.php): failed to open stream: No such file or directory in /home/bwtrkfjawjz2/public_html/processform.php on line 3
+[17-May-2018 14:55:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'util/DBConnect.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/bwtrkfjawjz2/public_html/processform.php on line 3
+[17-May-2018 14:55:53 UTC] PHP Warning:  require_once(util/DBConnect.php): failed to open stream: No such file or directory in /home/bwtrkfjawjz2/public_html/processform.php on line 3
+[17-May-2018 14:55:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'util/DBConnect.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/bwtrkfjawjz2/public_html/processform.php on line 3
+[17-May-2018 14:55:57 UTC] PHP Warning:  require_once(util/DBConnect.php): failed to open stream: No such file or directory in /home/bwtrkfjawjz2/public_html/processform.php on line 3
+[17-May-2018 14:55:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'util/DBConnect.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/bwtrkfjawjz2/public_html/processform.php on line 3
+[17-May-2018 14:56:53 UTC] PHP Notice:  Undefined index: inputName in /home/bwtrkfjawjz2/public_html/processform.php on line 6
+[17-May-2018 14:56:53 UTC] PHP Notice:  Undefined index: inputReEmail in /home/bwtrkfjawjz2/public_html/processform.php on line 7
+[17-May-2018 14:56:53 UTC] PHP Notice:  Undefined index: inputMobile in /home/bwtrkfjawjz2/public_html/processform.php on line 8
+[17-May-2018 14:56:53 UTC] PHP Notice:  Undefined index: inputTopic in /home/bwtrkfjawjz2/public_html/processform.php on line 9
+[17-May-2018 14:56:53 UTC] PHP Notice:  Undefined index: Area in /home/bwtrkfjawjz2/public_html/processform.php on line 10
+[17-May-2018 14:56:53 UTC] PHP Notice:  Undefined index: datepicker in /home/bwtrkfjawjz2/public_html/processform.php on line 11
+[17-May-2018 14:56:53 UTC] PHP Notice:  Undefined index: numofWord in /home/bwtrkfjawjz2/public_html/processform.php on line 12
+[17-May-2018 14:56:53 UTC] PHP Notice:  Undefined index: level in /home/bwtrkfjawjz2/public_html/processform.php on line 13
+[17-May-2018 14:56:53 UTC] PHP Notice:  Undefined index: reference in /home/bwtrkfjawjz2/public_html/processform.php on line 14
+[17-May-2018 14:56:53 UTC] PHP Notice:  Undefined index: other in /home/bwtrkfjawjz2/public_html/processform.php on line 15
+[17-May-2018 15:03:50 UTC] PHP Notice:  Undefined index: inputName in /home/bwtrkfjawjz2/public_html/processform.php on line 6
+[17-May-2018 15:03:50 UTC] PHP Notice:  Undefined index: inputReEmail in /home/bwtrkfjawjz2/public_html/processform.php on line 7
+[17-May-2018 15:03:50 UTC] PHP Notice:  Undefined index: inputMobile in /home/bwtrkfjawjz2/public_html/processform.php on line 8
+[17-May-2018 15:03:50 UTC] PHP Notice:  Undefined index: inputTopic in /home/bwtrkfjawjz2/public_html/processform.php on line 9
+[17-May-2018 15:03:50 UTC] PHP Notice:  Undefined index: Area in /home/bwtrkfjawjz2/public_html/processform.php on line 10
+[17-May-2018 15:03:50 UTC] PHP Notice:  Undefined index: datepicker in /home/bwtrkfjawjz2/public_html/processform.php on line 11
+[17-May-2018 15:03:50 UTC] PHP Notice:  Undefined index: numofWord in /home/bwtrkfjawjz2/public_html/processform.php on line 12
+[17-May-2018 15:03:50 UTC] PHP Notice:  Undefined index: level in /home/bwtrkfjawjz2/public_html/processform.php on line 13
+[17-May-2018 15:03:50 UTC] PHP Notice:  Undefined index: reference in /home/bwtrkfjawjz2/public_html/processform.php on line 14
+[17-May-2018 15:03:50 UTC] PHP Notice:  Undefined index: other in /home/bwtrkfjawjz2/public_html/processform.php on line 15
+[18-May-2018 05:50:08 UTC] PHP Notice:  Undefined index: inputName in /home/bwtrkfjawjz2/public_html/processform.php on line 6
+[18-May-2018 05:50:08 UTC] PHP Notice:  Undefined index: inputReEmail in /home/bwtrkfjawjz2/public_html/processform.php on line 7
+[18-May-2018 05:50:08 UTC] PHP Notice:  Undefined index: inputMobile in /home/bwtrkfjawjz2/public_html/processform.php on line 8
+[18-May-2018 05:50:08 UTC] PHP Notice:  Undefined index: inputTopic in /home/bwtrkfjawjz2/public_html/processform.php on line 9
+[18-May-2018 05:50:08 UTC] PHP Notice:  Undefined index: Area in /home/bwtrkfjawjz2/public_html/processform.php on line 10
+[18-May-2018 05:50:08 UTC] PHP Notice:  Undefined index: datepicker in /home/bwtrkfjawjz2/public_html/processform.php on line 11
+[18-May-2018 05:50:08 UTC] PHP Notice:  Undefined index: numofWord in /home/bwtrkfjawjz2/public_html/processform.php on line 12
+[18-May-2018 05:50:08 UTC] PHP Notice:  Undefined index: level in /home/bwtrkfjawjz2/public_html/processform.php on line 13
+[18-May-2018 05:50:08 UTC] PHP Notice:  Undefined index: reference in /home/bwtrkfjawjz2/public_html/processform.php on line 14
+[18-May-2018 05:50:08 UTC] PHP Notice:  Undefined index: other in /home/bwtrkfjawjz2/public_html/processform.php on line 15
+[18-May-2018 16:25:11 Asia/Colombo] PHP Parse error:  syntax error, unexpected ':' in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 764
+[18-May-2018 16:25:22 Asia/Colombo] PHP Parse error:  syntax error, unexpected ':' in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 764
+[30-May-2018 15:11:05 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'style' (T_STRING) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 187
+[30-May-2018 15:45:49 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 305
+[30-May-2018 15:46:11 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 305
+[30-May-2018 15:46:21 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 305
+[30-May-2018 16:55:49 Asia/Colombo] PHP Parse error:  syntax error, unexpected '$file' (T_VARIABLE) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 552
+[30-May-2018 17:01:27 Asia/Colombo] PHP Fatal error:  Call to undefined function Sammy\Assignment\Http\Controllers\mail_attachment() in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 552
+[30-May-2018 17:02:37 Asia/Colombo] PHP Fatal error:  Call to undefined function Sammy\Assignment\Http\Controllers\mail_attachment() in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 552
+[30-May-2018 17:04:27 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 14
+[30-May-2018 17:04:48 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 14
+[30-May-2018 17:05:31 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 14
+[30-May-2018 17:06:02 Asia/Colombo] PHP Fatal error:  Call to undefined function Sammy\Assignment\Http\Controllers\mail_attachment() in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 596
+[30-May-2018 17:13:50 Asia/Colombo] PHP Fatal error:  Call to undefined function Sammy\Assignment\Http\Controllers\file_get_mimetyp() in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 592
+[30-May-2018 17:15:45 Asia/Colombo] PHP Fatal error:  Call to undefined function Sammy\Assignment\Http\Controllers\file_get_mimetyp() in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 592
+[30-May-2018 17:55:14 Asia/Colombo] PHP Parse error:  syntax error, unexpected ';' in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 567
+[30-May-2018 23:31:52 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'http' (T_STRING) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 307
+[30-May-2018 23:32:34 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'm_8638116721254369886spacer' (T_STRING) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 310
+[30-May-2018 23:39:45 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'Hello' (T_STRING) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 307
+[31-May-2018 10:21:40 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'curl_init' (T_STRING) in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 543
+[31-May-2018 10:27:55 Asia/Colombo] PHP Fatal error:  Call to undefined function Sammy\Assignment\Http\Controllers\url_get_contents() in /home/bwtrkfjawjz2/public_html/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 543
+[29-Jun-2018 13:23:34 Asia/Colombo] PHP Fatal error:  Call to a member function prepend() on a non-object in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Http/Controllers/WelcomeController.php on line 810
+[29-Jun-2018 13:24:06 Asia/Colombo] PHP Fatal error:  Call to a member function prepend() on a non-object in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Http/Controllers/WelcomeController.php on line 825
+[29-Jun-2018 13:24:38 Asia/Colombo] PHP Fatal error:  Call to a member function prepend() on a non-object in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Http/Controllers/WelcomeController.php on line 825
+[29-Jun-2018 13:26:10 Asia/Colombo] PHP Fatal error:  Call to a member function prepend() on a non-object in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Http/Controllers/WelcomeController.php on line 810
+[29-Jun-2018 13:26:24 Asia/Colombo] PHP Fatal error:  Call to a member function get() on a non-object in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Http/Controllers/WelcomeController.php on line 810
+[02-Jul-2018 18:12:15 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 917
+[02-Jul-2018 18:13:07 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 917
+[02-Jul-2018 18:13:28 Asia/Colombo] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 917
+[13-Aug-2018 14:49:12 Asia/Colombo] PHP Parse error:  syntax error, unexpected '*' in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 801
+[13-Aug-2018 15:02:46 Asia/Colombo] PHP Parse error:  syntax error, unexpected ';' in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 779
+[13-Aug-2018 15:05:11 Asia/Colombo] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/bwtrkfjawjz2/public_html/dashboard/core/app/Packages/sammy/assignment/src/Http/Controllers/AssignmentController.php on line 779
