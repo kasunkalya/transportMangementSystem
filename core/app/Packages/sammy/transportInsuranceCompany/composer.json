@@ -1,0 +1,20 @@
+{
+    "name": "sammy/transportCompany",
+    "description": "Admin Panel transport Company Management",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kasun Kalya",
+            "email": "kasun.kalya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Sammy\\TransportInsuranceCompany\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support" : "~5"
+    }
+}

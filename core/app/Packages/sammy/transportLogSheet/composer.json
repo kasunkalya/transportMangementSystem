@@ -1,0 +1,20 @@
+{
+    "name": "sammy/transportLogSheet",
+    "description": "Admin Panel transport Lorry Management",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kasun Kalya",
+            "email": "kasun.kalya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Sammy\\TransportLogSheet\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support" : "~5"
+    }
+}

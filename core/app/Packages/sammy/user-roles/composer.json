@@ -1,0 +1,20 @@
+{
+    "name": "sammy/user-roles",
+    "description": "Admin Panel User Roles Management",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kasun Kalya",
+            "email": "yazith11@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Sammy\\UserRoles\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support" : "~5"
+    }
+}

@@ -1,0 +1,75 @@
+{
+	"name": "laravel/laravel",
+	"description": "The Laravel Framework.",
+	"keywords": ["framework", "laravel"],
+	"license": "MIT",
+	"type": "project",
+	"require": {
+		"laravel/framework": "5.1.*",
+		"cartalyst/sentinel": "2.0.*",
+		"doctrine/dbal":"~2.3",
+		"laravelcollective/html": "5.1.*",
+	  	"intervention/image": "2.*",
+	  	"intervention/imagecache": "2.*",
+	  	"benallfree/laravel-easy-attachments": "*",
+		"baum/baum": "~1.1",               
+	  	"guzzlehttp/guzzle": "^6.3",
+		"barryvdh/laravel-dompdf":"0.8.4"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~4.0",
+		"phpspec/phpspec": "~2.1"
+	},
+	"autoload": {
+		"classmap": [
+			"database",
+			"app/Models"
+		],
+		"psr-4": {
+			"App\\"                     : "app/",
+			"Sammy\\UserManage\\"       : "app/Packages/sammy/user-management/src/",
+			"Sammy\\MenuManage\\"       : "app/Packages/sammy/menu-management/src/",
+			"Sammy\\Permissions\\"      : "app/Packages/sammy/permissions/src/",
+			"Sammy\\UserRoles\\"        : "app/Packages/sammy/user-roles/src/",
+		 	"Sammy\\TransportRoute\\"  : "app/Packages/sammy/transportRoute/src/",
+		  	"Sammy\\TransportChargin\\"  : "app/Packages/sammy/transportChargin/src/",
+		  	"Sammy\\TransportLorry\\"  : "app/Packages/sammy/transportLorry/src/",
+            "Sammy\\TransportLorryMaintain\\"  : "app/Packages/sammy/transportLorryMaintain/src/",
+			"Sammy\\TransportLorryRepair\\"  : "app/Packages/sammy/transportLorryRepair/src/",
+		  	"Sammy\\TransportCompany\\"  : "app/Packages/sammy/transportCompany/src/",
+            "Sammy\\TransportEmployee\\"  : "app/Packages/sammy/transportEmployee/src/",
+            "Sammy\\TransportManagement\\"  : "app/Packages/sammy/transportManagement/src/",
+			"Sammy\\TransportCustomer\\"  : "app/Packages/sammy/transportCustomer/src/",
+            "Sammy\\TransportEmissionCompany\\"  : "app/Packages/sammy/transportEmissionCompany/src/",
+            "Sammy\\TransportInsuranceCompany\\"  : "app/Packages/sammy/transportInsuranceCompany/src/",
+            "Sammy\\TransportLorryChargers\\"  : "app/Packages/sammy/transportLorryChargers/src/",
+            "Sammy\\TransportLeasingCompany\\"  : "app/Packages/sammy/transportLeasingCompany/src/",
+            "Sammy\\TransportLorryFule\\"  : "app/Packages/sammy/transportLorryFule/src/",
+            "Sammy\\TransportLogSheet\\"  : "app/Packages/sammy/transportLogSheet/src/",
+			"Sammy\\TransportDocument\\"  : "app/Packages/sammy/transportDocument/src/",
+            "Sammy\\TransportSupplier\\"  : "app/Packages/sammy/transportSupplier/src/"
+		}
+	},
+	"autoload-dev": {
+		"classmap": [
+			"tests/TestCase.php"
+		]
+	},
+	"scripts": {
+		"post-install-cmd": [
+			"php artisan clear-compiled",
+			"php artisan optimize"
+		],
+		"post-update-cmd": [
+			"php artisan clear-compiled",
+			"php artisan optimize"
+		],
+		"post-create-project-cmd": [
+			"php -r \"copy('.env.example', '.env');\"",
+			"php artisan key:generate"
+		]
+	},
+	"config": {
+		"preferred-install": "dist"
+	}
+}

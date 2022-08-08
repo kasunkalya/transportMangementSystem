@@ -1,0 +1,20 @@
+{
+    "name": "sammy/transportDocument",
+    "description": "Admin Panel transport Customer Management",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kasun Kalya",
+            "email": "kasun.kalya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Sammy\\TransportDocument\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support" : "~5"
+    }
+}

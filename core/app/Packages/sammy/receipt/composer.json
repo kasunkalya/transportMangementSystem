@@ -1,0 +1,20 @@
+{
+  "name": "sammy/books",
+  "description": "Admin Panel Document Management",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kasun Kalya",
+      "email": "kasun.kalya@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "sammy\\Books\\": "src/"
+    }
+  },
+  "require": {
+    "illuminate/support" : "~5"
+  }
+}

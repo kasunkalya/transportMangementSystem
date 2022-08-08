@@ -1,0 +1,20 @@
+{
+    "name": "sammy/transportSupplier",
+    "description": "Admin Panel transport Supplier Management",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kasun Kalya",
+            "email": "kasun.kalya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Sammy\\TransportSupplier\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support" : "~5"
+    }
+}

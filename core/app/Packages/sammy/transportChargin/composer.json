@@ -1,0 +1,20 @@
+{
+    "name": "sammy/transportChargin",
+    "description": "Admin Panel transport Chargin Management",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kasun Kalya",
+            "email": "kasun.kalya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Sammy\\TransportChargin\\": "src/"
+        }
+    },
+    "require": {
+        "illuminate/support" : "~5"
+    }
+}
